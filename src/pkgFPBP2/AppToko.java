@@ -26,7 +26,7 @@ public class AppToko {
         int kode = 100, jumlah;
 
         do {
-            System.out.println("\n<<<=== Omah Kopi ===>>>");
+            System.out.println("\n<=== Warung Omahan 'Mama Andin' ===>");
             System.out.println("1. Pembeli");
             System.out.println("2. Member");
             System.out.println("3. Admin");
